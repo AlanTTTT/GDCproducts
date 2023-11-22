@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GDCproducts/static/css/main.44f8b8b5.css",
+    "main.js": "/GDCproducts/static/js/main.959bb5bd.js",
+    "static/js/787.16f6d5a0.chunk.js": "/GDCproducts/static/js/787.16f6d5a0.chunk.js",
+    "index.html": "/GDCproducts/index.html",
+    "main.44f8b8b5.css.map": "/GDCproducts/static/css/main.44f8b8b5.css.map",
+    "main.959bb5bd.js.map": "/GDCproducts/static/js/main.959bb5bd.js.map",
+    "787.16f6d5a0.chunk.js.map": "/GDCproducts/static/js/787.16f6d5a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.959bb5bd.js"
+  ]
+}
